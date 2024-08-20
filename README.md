@@ -1,3 +1,6 @@
+RAQUEL E RAILAN
+
+
 1. Lista cinco exemplos de exceções comuns.
 Em um método que salva um arquivo no disco rígido, pode ocorrer uma falha devido ao disco estar cheio; em um método que lê um número do teclado, pode ocorrer uma falha devido ao usuário digitar letras em vez de números; em método que seta o valor de um atributo, pode ocorrer uma falha se o valor recebido pelos parâmetros forem inconsistentes; uma aplicação robusta é aquela que consegue tratar corretamente as diversas exceções que possam vir a ocorrer.
 2. Por que as técnicas de tratamento de exceções não devem ser utilizadas para controle convencional de programação?
